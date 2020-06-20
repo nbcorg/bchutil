@@ -9,9 +9,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/martinboehm/btcutil"
-	"github.com/martinboehm/btcutil/base58"
-	"github.com/martinboehm/btcutil/chaincfg"
+	"github.com/nbcorg/btcutil"
+	"github.com/nbcorg/btcutil/base58"
+	"github.com/nbcorg/btcutil/chaincfg"
 	"golang.org/x/crypto/ripemd160"
 )
 

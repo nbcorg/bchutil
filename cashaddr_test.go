@@ -1,8 +1,8 @@
 package bchutil
 
 import (
-	"github.com/martinboehm/btcutil"
-	"github.com/martinboehm/btcutil/chaincfg"
+	"github.com/nbcorg/btcutil"
+	"github.com/nbcorg/btcutil/chaincfg"
 	"testing"
 )
 

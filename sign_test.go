@@ -3,11 +3,11 @@ package bchutil
 import (
 	"bytes"
 	"encoding/hex"
-	"github.com/martinboehm/btcd/btcec"
-	"github.com/martinboehm/btcd/wire"
-	"github.com/martinboehm/btcutil"
-	"github.com/martinboehm/btcutil/chaincfg"
-	"github.com/martinboehm/btcutil/txscript"
+	"github.com/nbcorg/btcd/btcec"
+	"github.com/nbcorg/btcd/wire"
+	"github.com/nbcorg/btcutil"
+	"github.com/nbcorg/btcutil/chaincfg"
+	"github.com/nbcorg/btcutil/txscript"
 	"testing"
 )
 

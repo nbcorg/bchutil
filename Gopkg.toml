@@ -23,11 +23,11 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/martinboehm/btcd"
+  name = "github.com/nbcorg/btcd"
 
 [[constraint]]
   branch = "master"
-  name = "github.com/martinboehm/btcutil"
+  name = "github.com/nbcorg/btcutil"
 
 [[constraint]]
   branch = "master"
